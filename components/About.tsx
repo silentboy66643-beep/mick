@@ -36,7 +36,7 @@ export default function About() {
               transition={{ duration: 0.8, delay: 0.3 }}
               className="absolute -bottom-8 -left-8 md:bottom-8 md:-left-12 glass-panel p-6 max-w-[200px]"
             >
-              <p className="font-display text-4xl text-primary-gold mb-2">Est. 2009</p>
+              <p className="font-display text-4xl text-primary-gold mb-2">Est. 2001</p>
               <p className="text-xs uppercase tracking-widest text-primary-white/70">A Tradition of Excellence</p>
             </motion.div>
           </motion.div>

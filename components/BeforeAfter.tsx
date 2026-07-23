@@ -81,7 +81,7 @@ export default function BeforeAfter() {
           {/* After Image (Background) */}
           <div className="absolute inset-0 w-full h-full">
             <Image
-              src="https://images.unsplash.com/photo-1593702275687-f8b402bf1fb5?q=80&w=1600&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1600&auto=format&fit=crop"
               alt="After Haircut"
               fill
               className="object-cover"
@@ -99,10 +99,10 @@ export default function BeforeAfter() {
           >
             <div className="absolute inset-0 w-[100vw] max-w-[1024px] h-full" style={{ width: containerRef.current?.offsetWidth || '100%' }}>
               <Image
-                src="https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=1600&auto=format&fit=crop"
+                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1600&auto=format&fit=crop"
                 alt="Before Haircut"
                 fill
-                className="object-cover grayscale"
+                className="object-cover"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute top-4 left-4 bg-primary-white/90 backdrop-blur-md px-4 py-2 text-xs font-semibold tracking-widest uppercase text-primary-black z-10">

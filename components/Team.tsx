@@ -9,21 +9,21 @@ const team = [
     role: 'Master Barber',
     exp: '15 Years',
     specialty: 'Skin Fades & Scissor Cuts',
-    image: 'https://images.unsplash.com/photo-1618077360395-f3068be8e001?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1595956553066-fe24a8c33395?q=80&w=800&auto=format&fit=crop'
   },
   {
     name: 'Marcus Thorne',
     role: 'Senior Barber',
     exp: '10 Years',
     specialty: 'Beard Sculpting & Hot Towel',
-    image: 'https://images.unsplash.com/photo-1575454652417-64906cbdf0a3?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1621532057639-c12e3e6024dc?q=80&w=800&auto=format&fit=crop'
   },
   {
     name: 'David MacLeod',
     role: 'Stylist',
     exp: '7 Years',
     specialty: 'Modern Styling & Texturing',
-    image: 'https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?q=80&w=800&auto=format&fit=crop'
+    image: 'https://images.unsplash.com/photo-1593702287287-142469a53ec2?q=80&w=800&auto=format&fit=crop'
   }
 ];
 
